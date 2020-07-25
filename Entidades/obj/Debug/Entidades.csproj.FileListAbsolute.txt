@@ -1,0 +1,6 @@
+C:\Users\Rod\source\repos\Calendario_Feriados\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rod\source\repos\Calendario_Feriados\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rod\source\repos\Calendario_Feriados\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rod\source\repos\Calendario_Feriados\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rod\source\repos\Calendario_Feriados\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rod\source\repos\Calendario_Feriados\Entidades\obj\Debug\Entidades.pdb
